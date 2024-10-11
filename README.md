@@ -1,6 +1,7 @@
 # Bike Sales Data Analysis Using Excel
 ***
 
+![image](https://github.com/Didar-Rashed/Bike-Sales-Data-Analysis-Using-Excel/blob/19fb522ee6d51ea69e94c0fa56d60de0da5670b3/Screenshot%202024-10-11%20212132.png)
 
 ## Introduction
 This dashboard presents an analysis of bike sales, focusing on customer demographics, purchasing behavior, and commute patterns. The primary goal is to uncover trends and insights regarding income per purchase, customer age brackets, and commute distance to better inform sales strategies.
